@@ -1,0 +1,19 @@
+The PSA Council is intended to act as an association of associations, so different PSA firms can operate in the same geographical area seamlessly, without needing to negotiate separate contracts for every competing firm.  Its primary means of accomplishing this will be in designing and administering a Dispute Protocol, or the procedures for dealing with a dispute between members of different associations.
+
+It will be generally preferable for the Council (in a business sense) for the protocol to be simple, and to appeal to a broad and unifying principle, so that it can have as many member associations as possible.  My proposal is to use personal responsibility as that principle, as it is an attribute everyone wants neighbors and business partners to possess.
+
+The specific protocol would ultimately be designed by the PSA Council, and is likely to evolve over time, but as a starting point I will offer the following as a User Story:
+
+Suppose Alice, a member of the Alpha Association, drives her car into the yard of Bob, a member the Beta Association, and destroys a prized rosebush.  For simplicity we will ignore (for now) the possibility of Alice fleeing the scene.  Alice gives Bob the details of her association, where they discover they are members of different associations.  The ‘Same Association’ case is both obvious, and to be explored elsewhere.
+
+At this point Bob has a choice.  He can pursue damages independently, or (if his association allows it) he can request they pursue them on his behalf.  We will assume the latter, although the procedure is similar for either case.
+
+Beta Association, upon discovering that a member of Alpha Association caused damage to one of their members, will contact Alpha Association and the PSA Council to schedule a mediation.  The mediator will then listen to the case, and decide in favor of one party or the other, which in this case should be for Bob and Beta Association.  Alpha would be directed to provide sufficient monetary compensation to Bob as restitution for Alice’s harm (in accordance with the mediator’s policy, details of which will be explored elsewhere).
+
+Alpha Association would then turn to Alice, to apply their own internal procedure for the damage she caused to them (which would have been agreed upon when she signed up).  The exact nature of that procedure will depend on a vast multitude of factors, and will likely be wildly different depending on the nature of the infraction and the association.
+
+If Alpha Association were to decide not to respond to a call for mediation, or to reject the terms (ignoring the possibility of some kind of appeal process), then they would be removed from the PSA Council, and their members would be considered unassociated for the purposes of dealing with other associations.
+
+To elaborate, suppose Alice, still a member of Alpha, works at some firm owned/operated by a member of a different association.  If Alpha is dropped from the PSA Council, then her employer will likely require Alice to join a different association to continue working.  This will not be especially difficult for Alice, so she will likely comply, and cease her membership with Alpha.
+
+Although the nature of Alpha may introduce some complications (Standing vs Staking, for instance), in general this will be very bad for Alpha’s business, as unless they are an absurdly large association (in which case it is unlikely for her to have found a member of a different association to damage in the first place), Alice’s situation will likely hold true for the majority of their members.  Without members, an association will have no revenue, and with no revenue, they can pay no employees, and with no employees, they will not exist.
