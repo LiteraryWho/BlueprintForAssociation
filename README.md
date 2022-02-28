@@ -7,6 +7,6 @@ This project is intended to be a collaborative effort, so feel free to fork this
 
 There is also a novel which introduces the concept, which I’ll link here when I find a home for it.
 
-If you find this idea to be valuable, and want to support the guy who made it, you can donate monero at the following address:
+If you find this idea valuable and want to support the guy who made it, you can donate monero at the following address:
 
-(insert monero address here)
+8Bef3ZS549WbFphXsm669M25YbJrAJaTFS5newrLaVC498UjYfmrxWihSUKw29R132GoBsxQzaqNbTPTBrcvdBpMEuNRuFU
