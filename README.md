@@ -5,7 +5,7 @@ The numbers offer a suggested reading order, though following it is not critical
 
 This project is intended to be a collaborative effort, so feel free to fork this repository, or to make push requests/comments/suggestions.  I’ll try to incorporate feedback here as well.
 
-There is also a novel which introduces the concept.  You can find a PDF Copy here:
+There is also a novel which introduces the concept.  You can find a PDF/epub Copy here:
 https://github.com/LiteraryWho/TheClassB
 
 If you find this idea valuable and want to support the guy who made it, you can donate monero at the following address:
