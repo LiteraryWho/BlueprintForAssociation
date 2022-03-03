@@ -1,4 +1,4 @@
-# A-Blueprint-For-Association
+# A Blueprint For Association
 A practical strategy for the peaceful and permanent elimination of the state.
 
 To be clear, my intent is for these text files to be downloaded and read elsewhere.  Reading directly on github is an atrocious experience, which I do not recommend to anyone.  If I can figure out (or am suggested) a better collaborative environment, then I will switch that.
