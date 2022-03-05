@@ -7,6 +7,8 @@ The numbers offer a suggested reading order, though following it is not critical
 
 This project is intended to be a collaborative effort, so feel free to fork this repository, or to make push requests/comments/suggestions.  I’ll try to incorporate feedback here as well.
 
+I am currently exploring a "build" process (using AsciiDoc), but tbh, I'm pretty lazy, so it might take me a while to get around to it.
+
 There is also a novel which introduces the concept.  You can find a PDF/epub Copy here:
 https://github.com/LiteraryWho/TheClassB
 

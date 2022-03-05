@@ -1,10 +1,12 @@
+= Private Social Associations
+
 A PSA, or Private Social Association, is a business intended to provide the essential services of government without relying on the power of the state, or more specifically, on violence.  To be specific, it is meant to provide a mechanism of trust between unknown parties, or for matters which are too impactful to rely only on the reputations of the involved.
 
-As a brief aside, a PSA is not necessarily in the security business (although it is certainly possible for a firm to enter that industry as well).  This is not a defect, as the government is not in the security business either (contrary to common belief), and can’t be said to even do a good job at pretending it is.  There is much to be said in establishing this fact, though the question has no doubt received far better analysis in other literature, so I will instead offer only this.
+As a brief aside, a PSA is not necessarily in the security business (although it is certainly possible for a firm to enter that industry as well).  This is not a defect, as the government is not in the security business either (contrary to common belief), and can’t be said to even do a good job at pretending it is.  There is much to be said in establishing this fact, though the question has probably received far better analysis in other literature, so I will instead offer only this.
 
 If you are robbed, assaulted, or killed, the government will provide no compensation to you or your family for the breach of its supposed duty.  In the absolute best case scenario, they will pursue with some vigor the perpetrator of your harm, and extract from them some measure of restitution.  In the event of their failure, however, you will be left with only what actions you took to prepare for such an event (insurance, savings, etc.), and your only recourse against the state is the vague threat of voting for some other, equally irresponsible party.
 
-If you are not convinced, it is of no matter, as PSAs provide the means to create robust private security firms, and to control them (i.e. avoid the ‘competing gangs’ problem).  I will elaborate on that in a later chapter, so for now I ask you to lay aside your doubts.  Instead, we will focus on the question of trust.
+If you are not convinced, that is fine, PSAs provide the means to create robust (and accessible) private security firms, and to control them.  I elaborate on that in later chapters (Competing Gangs and Security Firms), so for now I ask you to lay aside your doubts.  Instead, we will focus on the question of trust.
 
 There are two kinds of trust necessary for a society to function at scale.  The first is the narrow and rigidly defined trust one gets from a contract, i.e. that your counter party in a business arrangement will make good on their word.  The second is the broad and loosely defined trust that your neighbors will behave in a socially cohesive manner, sometimes referred to as a social contract.
 
