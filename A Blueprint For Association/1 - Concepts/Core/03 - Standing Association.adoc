@@ -1,3 +1,6 @@
+<<<
+== Standing Associations
+
 A Standing Association is a kind of PSA which uses a combination of reputation and perks to secure good behavior from its members, and collects dues in order to generate revenue.  It could be described as a hybrid between an insurance company and a fraternity.  To illustrate how one might operate, consider the following example.
 
 Alice is a member of Alpha Association, where she receives many benefits, such as insurance, access to exclusive clubs, counseling, coaching, and various other services, as well as Alpha’s guarantee to other parties (up to a substantial limit) that she will make good on her word.  In order to reach this level with them, Alice has spent several years working towards it, investing her time into the association to prove that she values her membership.  She has also agreed to maintain a certain standard of behavior.

@@ -1,3 +1,6 @@
+<<<
+== Vendetta
+
 Vendetta is a concept roughly analogous to how, in the present system, the police will (in theory) seek restitution on your behalf in the event you are incapacitated/killed (or simply can’t be bothered, I suppose), even if you have no heirs or interested parties.  In a sense, the modern state could be said to take unto itself all vendettas on your behalf without asking.  It does… a job at it.
 
 In association, vendetta is meant to take that implied coverage, and make it explicit.  The exact economics of the arrangement will come down to consumer preferences and the ability of entrepreneurs to make money while doing it.  Nevertheless, I will offer a suggested payment strategy: the firm with your Vendetta will take some percentage of the restitution in exchange for their services.

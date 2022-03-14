@@ -1,0 +1,4 @@
+#!/bin/bash
+find -s . -name '*.adoc' | awk '{print "include::"$0"[leveloffset=1]"}'  > BFABooklet
+asciidoctor-pdf -D Published BFABooklet
+rm BFABooklet

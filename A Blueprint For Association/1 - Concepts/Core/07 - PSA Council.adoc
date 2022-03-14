@@ -1,3 +1,6 @@
+<<<
+== PSA Council
+
 The PSA Council is intended to act as an association of associations, so different PSA firms can operate in the same geographical area seamlessly, without needing to negotiate separate contracts for every competing firm.  Its primary means of accomplishing this will be in designing and administering a Dispute Protocol, or the procedures for dealing with a dispute between members of different associations.
 
 It will be generally preferable for the Council (in a business sense) for the protocol to be simple, and to appeal to a broad and unifying principle, so that it can have as many member associations as possible.  My proposal is to use personal responsibility as that principle, as it is an attribute everyone wants neighbors and business partners to possess.

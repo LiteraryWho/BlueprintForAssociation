@@ -1,3 +1,6 @@
+<<<
+== PSA Protocol
+
 This is just a list of random suggestions I have for the PSA Protocol, which, to be clear, is the rules for how associations interact with each other, and the set of common principles which all member associations agree to hold.  It is designed by the PSA Council.
 
 Anyway, on to the suggestions, in no particular order (hopefully I end up with more than two, lol).

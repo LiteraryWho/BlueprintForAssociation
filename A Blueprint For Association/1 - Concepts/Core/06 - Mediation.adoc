@@ -1,3 +1,6 @@
+<<<
+== Mediation
+
 A mediator is anyone who is considered reasonably impartial and sufficiently knowledgeable on a given dispute that the parties involved will find their decision acceptable.  It is likely that most mediators will work for/be accredited by the PSA council, although it is entirely possible for an association to have internal mediators for disputes between members.  There is also nothing stopping someone from being a wholly independent mediator, except for the part where they need to be trusted by both parties (and their decision needs to be respected).
 
 In general, though, I would consider mediators to largely handle disputes at the association v. association level, rather than concerning themselves with the affairs of individuals.  This is because of how their “mediation power” works, that is, it’s also purely associative.  The PSA Council “enforces” the decisions of its mediators by expelling from the council any association which refuses to accept a judgement.

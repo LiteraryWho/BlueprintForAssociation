@@ -1,0 +1,4 @@
+<<<
+== Contracts
+
+With associations, contracts are still really just contracts.  I think it’s likely many of them will be handled by staking associations, simply because they offer a pretty strong guarantee against unpaid damages.  The only important thing to note is that if someone breaks a contract, it’s on the association to handle it, but no one ever goes after anyone with a gun.  It would, in fact, be a breach of standing against the aggrieved party if they initiated violence against someone over a broken contract.

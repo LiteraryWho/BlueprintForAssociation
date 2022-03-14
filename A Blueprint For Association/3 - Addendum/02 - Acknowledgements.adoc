@@ -1,5 +1,8 @@
+== Acknowledgements
+
 This is a list of the parties who in some way inspired or motivated me to develop associations.  I will attempt to sort them according to their degree of impact, though the exact order may not be one hundred percent accurate.
 
+[%hardbreaks]
 1) Japan
 2) Heinlein
 3) Tolkien

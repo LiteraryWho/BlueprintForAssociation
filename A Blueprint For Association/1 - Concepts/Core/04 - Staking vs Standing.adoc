@@ -1,6 +1,10 @@
+<<<
+== Staking vs Standing
+
 There are only two broad categories of associations I can think of, staking and standing.  I won’t say there can’t possibly be other types, and there is plenty of space under either umbrella for innovation.  I also can do no more than speculate which kind, if any, will ultimately emerge as the more popular type.  There is reason to suppose both kinds fill different niches, and thus will coexist indefinitely.
 
 Anyway, here’s a comparison between them.
+
 	Standing Associations:
 1) can offer lots of perks
 2) benefits from being exclusive
@@ -19,4 +23,4 @@ Anyway, here’s a comparison between them.
 6) may require separate/additional stake for any given use case
 7) likely caters to the poor and possibly to businesses
 
-My guess is that standing associations will be more prominent in a “mature” associative society, whereas staking associations will be most useful during the transition away from the state.  In terms of what the world will ultimately look like, I can only guess, but I suspect standing associations will be the kind of thing everyone has, as a prerequisite for living in a city, whereas staking associations will have more niche applications, in particular with regards to contracts and business deals. 
+My guess is that standing associations will be more prominent in a “mature” associative society, whereas staking associations will be most useful during the transition away from the state.  In terms of what the world will ultimately look like, I can only guess, but I suspect standing associations will be the kind of thing everyone has, as a prerequisite for living in a city, whereas staking associations will have more niche applications, in particular with regards to contracts and business deals.

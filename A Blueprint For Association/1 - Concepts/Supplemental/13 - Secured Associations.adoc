@@ -1,3 +1,6 @@
+<<<
+== Secured Association
+
 Although something like a secured association is probably necessary, the general idea I’m proposing here could actually have been applied to a legal system as well.  Anyway, the core idea behind a secured association is that it is an association where the members have their movement restricted in some way.  Put another way, it’s like a prison, but the prisoners get to choose where they stay.
 
 The purpose is much the same as for a regular prison, namely it is a place where people who have proven themselves incapable of adjusting to society can stay without putting others in danger.  Asides from the security, they would generally have all the same options as other people.

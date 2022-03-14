@@ -1,3 +1,6 @@
+<<<
+== Actualized Damages
+
 This is an idea which I am less confident in.  It may be valuable as is, or require some amount of work, or just be terrible.  The core idea is to treat actions nondeterministically, or put another way, to consider every possible consequence of an action when evaluating its impact, even though in reality only some limited subset of those consequences occurred.
 
 As an example, suppose Alice is in a mall looking to buy a new hat.  While there she meets Bob, who, after the knife throwing incident, mocks her for her terrible luck.  Alice is so offended that she takes drastic action to prove her good fortune.  She takes a machine pistol from her belt (please do not assume this is intended to be a normal item to carry in a mall) and closes her eyes, then spins in a circle and fires wildly.

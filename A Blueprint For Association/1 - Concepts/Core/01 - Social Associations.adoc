@@ -1,4 +1,4 @@
-= Private Social Associations
+== Private Social Associations
 
 A PSA, or Private Social Association, is a business intended to provide the essential services of government without relying on the power of the state, or more specifically, on violence.  To be specific, it is meant to provide a mechanism of trust between unknown parties, or for matters which are too impactful to rely only on the reputations of the involved.
 

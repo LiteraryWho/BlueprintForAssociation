@@ -1,3 +1,6 @@
+<<<
+== Competing Gangs
+
 I said I would address this earlier, though in truth it’s actually fairly similar to the army problem and is solved in a similar way.  Still, I’m too lazy to go back and edit my promise out, so I’ll spend some time covering it here.
 
 To start, what is the Competing Gangs problem?  In short, it is the notion that under an anarchist system, the security firms would go to war with each other for customers, and the only way to constrain them would be to have a government, aka, the biggest gang imaginable.  I suppose, in some way, it does at least prevent the gangs from competing… much, because their conflicts are unimaginably devastating.  I can’t really say it does a good job a preventing a bunch of gangs from forming though, on accounts of that’s the system we’re using, and we’re chock full of gangs already.

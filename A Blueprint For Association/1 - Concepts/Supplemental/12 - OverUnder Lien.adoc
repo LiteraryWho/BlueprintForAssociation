@@ -1,3 +1,6 @@
+<<<
+== Over/Under Lein
+
 The Over/Under Lien is another concept not fundamental to associations, but which I feel could nevertheless be of some value.  It is another extension of an intuitive aspect of property rights, in this case of the notion that one doesn’t need any special permission to fly over some particular piece of property (so long as you are doing so in a manner that doesn’t disrupt or damage things down below).  Similarly, it is not considered trespassing to cross over an open field under most circumstances.
 
 In fact, if someone were to shoot down an aircraft over their land they would be considered the aggressor (with perhaps some exceptions, though in all cases such a no-fly zone would have to be made explicitly and announced publicly).  This suggests that it is acceptable to generate an ad hoc lean on a property, at least temporarily.
