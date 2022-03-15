@@ -1,0 +1,26 @@
+<<<
+== Crime
+
+The word crime is probably not technically accurate, given that Private Social Associations don’t operate under a system of laws.  Nevertheless, we can also understand crime to mean “Willful acts of damage against another party.”  That is to say, things such as theft and murder.
+
+Using that definition, with our crime analogized to crime inside a traditional state, we can ask the question, “How is crime handled amongst associates?”
+
+I have already touched on this in other chapters, but I think it would be valuable to address the topic directly and completely on its own, so I will do that here by walking through a scenario.
+
+To start, let us suppose Alice and Bob are each in different associations, and specifically that Alice is in Alpha.  The pair both run hot dog carts and service the same area, a small park.
+
+Alice is hurting financially, and feels her only hope to turn things around is to have exclusive access to the park.  She doesn’t believe that Bob can be reasoned with, so she decides to murder him.  She ambushes him one night after packing up, and slips away.
+
+Bob’s family discovers his death, and alerts Bravo Company, a firm specializing in Vendetta Bob had a contract with.  As part of this agreement, Bravo gets fifty percent of restitution payments to Bob, up to the costs of their investigation plus a reasonable profit.  We will ignore the question of whether Bob had some kind of additional insurance, and focus only on Alice’s damages.
+
+Bravo conducts their investigation into Bob’s death, and discovers Alice is the party responsible, and that she is a member of Alpha.  Bravo proves to Alpha’s satisfaction that Alice is the party responsible, so to avoid wasting money on mediation (and the possibility of having to pay for Bravo’s expenses in arguing their case), they agree to pay damages on Alice’s behalf.
+
+Alice still owes her debt, however, even if it has moved up the line to Alpha.  They don’t want to bear the cost of other people’s actions if they can avoid it, also can’t trust a murder to continue acting in good faith (and thus not be a potential liability), so they refer Alice to a secured association, Charlie, who specializes cases such as hers.
+
+For now, we’ll assume Alice objects, and that she thinks Bob had it coming, so she runs away to a secret cabin in the woods.  Alpha, still interested in recouping their losses from Alice, turns to a firm specializing in pursuing debts, that is, a firm who handles Vendetta.  For simplicity, we’ll suppose they contract with Bravo Company, who conducts their investigation and tracks down Alice.  They may also track down property she owns, for example, her hot dog cart.
+
+Bravo finds Alice in her cabin, and offers her a choice.  Either they treat her like a bandit and seize her property/drive her as far from civilization as possible, or she agrees to join a secured association (who would themselves offer a guarantee of Alice’s continued good behavior).  Alice most likely chooses the latter, and spends the rest of her life paying off her debt to Bob/Bob’s estate.  She likely finds work inside her secured association as a cook.
+
+If she doesn’t, Bravo auctions off what assets of Alice’s they could find to recoup their losses, and ships Alice either as far from civilization as they can get her, or else to some area who specializes in handling recalcitrant anti-social malcontents.  I don’t think it likely there could be such a large number of them that some special protocol would be designed, but I’m confident if the need arose a solution could be devised.  Perhaps a penal colony on an island, where such people can live amongst their own kind if they so desired?
+
+In any case, I _think_ I covered everything at least up to parity with the state, so I will conclude for now.  Crime is a complicated matter, however, so I’m sure there are areas where things could be improved.

@@ -1,10 +1,12 @@
 <<<
 == Vendetta
 
-Vendetta is a concept roughly analogous to how, in the present system, the police will (in theory) seek restitution on your behalf in the event you are incapacitated/killed (or simply can’t be bothered, I suppose), even if you have no heirs or interested parties.  In a sense, the modern state could be said to take unto itself all vendettas on your behalf without asking.  It does… a job at it.
+Vendetta is a concept roughly analogous to how, in the present system, the police will (in theory) seek restitution on your behalf in the event you are incapacitated/killed (or simply can’t be bothered, I suppose), even if you have no heirs or interested parties.  In a sense, the modern state could be said to take unto itself all vendettas on your behalf without asking.  It does... a job at it.
 
 In association, vendetta is meant to take that implied coverage, and make it explicit.  The exact economics of the arrangement will come down to consumer preferences and the ability of entrepreneurs to make money while doing it.  Nevertheless, I will offer a suggested payment strategy: the firm with your Vendetta will take some percentage of the restitution in exchange for their services.
 
-This percentage may very well be added to the total owed by the perpetrator, although it is likely to be drawn concurrently in the event of it must be repaid over time.  To explain by example, suppose Alice caused Bob ten thousand dollars worth of damages, but could only pay one hundred dollars a month.  If Bob had a ten percent vendetta, Alice would owe eleven thousand dollars, with the extra grand owed to Bob’s firm.  She would pay her one hundred dollars a month, and Bobs firm would collect ten, while Bob himself received the remaining ninety dollars.  This would continue until Alice was fully paid off.
+This percentage may very well be added to the total owed by the perpetrator, although it is likely to be drawn concurrently in the event of it must be repaid over time.  To explain by example, suppose Alice caused Bob ten thousand dollars worth of damages, but could only pay one hundred dollars a month.  Let us further suppose Bob's firm spent one thousand dollars in their pursuit of Alice, so she owed in total eleven thousand dollars.
+
+If Bob had a ten percent vendetta contract, Alice would pay her one hundred dollars a month, Bob's firm would collect ten, while Bob himself received the remaining ninety dollars.  This would continue until Alice finished paying her debt.
 
 As an aside, it is entirely possible Bob would have some kind of insurance which would pay for his damages immediately, and Alice’s debt would instead be owed to that firm.  We also ignored how Alice’s association would play into this, but regardless the debt would fall onto Alice in some form, even if the money might flow in a more complicated pattern.
