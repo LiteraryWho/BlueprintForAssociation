@@ -1,15 +1,9 @@
 # A Blueprint For Association
 A practical strategy for peacefully and permanently replacing the state.
 
-To be clear, my intent is for these text files to be downloaded and read elsewhere, though the expereince reading it here has been improved somewhat.  I have no idea how well it is on mobile though.
+You can download a PDF version from the releases section, or just explore the files in the repo.  There is a good bit of text here, but you should (in theory) only need the first section to understand the idea.
 
-The numbers offer a suggested reading order, though following it is not critical to understanding the underlying concept.  At the very least, I suggest starting with number one, however, as it introduces the core idea.  Also, if you are convinced, but don't feel like reading everything, number sixteen "Execution" offers some advice for bringing this about.  It also serves as an argument for why this is more than some nebulous 'good idea', but rather is something which can actually be brought to reality in the near future.
-
-This project is intended to be a collaborative effort, so feel free to fork this repository, or to make push requests/comments/suggestions.  I’ll try to incorporate feedback here as well.
-
-I am currently exploring a "build" process (using AsciiDoc), but tbh, I'm pretty lazy, so it might take me a while to get around to it.
-
-There is also a novel which introduces the concept.  You can find a PDF/epub Copy here:
+There is also a novel which introduces the concept.  You can find a PDF/ePub Copy here:
 https://github.com/LiteraryWho/TheClassB
 
 If you find this idea valuable and want to support the guy who made it, you can donate monero at the following address:
