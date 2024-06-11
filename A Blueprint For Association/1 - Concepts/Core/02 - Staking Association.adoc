@@ -1,7 +1,7 @@
 <<<
 == Staking Associations
 
-A Staking Association is a kind of Private Social Association which uses productive assets as the underlying guarantee for the good behavior of its members.  More specifically, it acts as a holding company for the assets of some given association, and those assets are then held by the association for the duration of the relevant contract.  To further elaborate, allow me to provide a short hypothetical scenario.
+A Staking Association is a kind of Private Social Association which uses productive assets as the underlying guarantee for the good behavior of its members.  More specifically, it acts as a holding company for the assets of some given associate, and those assets are then held by the association for the duration of the relevant contract.  To further elaborate, allow me to provide a short hypothetical scenario.
 
 Alice is interested in renting an apartment from Bob.  Bob, not being familiar with Alice, and not willing to risk that she might damage his property without paying for the repairs (or perhaps abscond with the appliances), would prefer to have some means of securing responsible behavior from her.  To this end, he requires her lease to be handled through an association.
 
